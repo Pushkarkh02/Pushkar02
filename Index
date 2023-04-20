@@ -32,9 +32,9 @@
 
 <body>
     <h1> Pushkar Karkhanis 
-        Hello World 
+      <h2>Hello World </h2> 
 padding30px;
- Thanks for all the fish
+ <h3>Thanks for all the fish </h3>
 
     </h1>
 
