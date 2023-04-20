@@ -13,6 +13,7 @@
 
   <meta name="theme-color" content="#ffffff"
   
+  
 </head>
 
 
@@ -37,8 +38,11 @@
 
     
 
-  <!-- Add your site or application content here -->
-  <p>Hello world! This is HTML5 Boilerplate.</p>
+ 
+
+
+
+
 </body>
 
 </html>
