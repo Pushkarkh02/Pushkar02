@@ -11,7 +11,7 @@
 
   <link rel="stylesheet" href="/styles.css"
 
-  <meta name="theme-color" content="#ffffff
+  <meta name="theme-color" content="#ffffff"
   
 </head>
 
