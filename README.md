@@ -1,4 +1,4 @@
 # Pushkar02
-Engineering Assignment
-Create a Basic Website
-Check for Accessibility
+Engineering Assignment (Done)
+Create a Basic Website (Done)
+Check for Accessibility (Done)
